@@ -1,14 +1,17 @@
-# doeVida
-Aplicativo para treino de HTML, CSS, NodeJS e comunicação entre banco de dados utilizando PostgreeSQL.
+# Doe Vida
 
-Os dados introduzidos são salvos no banco de dados e depois exibidos na página para exibir as últimas entradas.
+## Aplicativo para treino de HTML, CSS, NodeJS e comunicação entre banco de dados utilizando PostgreeSQL.
 
-Dependências:
-NodeJS
-  Express ^4.17.1
-  Nodemon ^2.0.2
-  Nunjucks ^3.2.1
-  Pg ^7.18.2
-PostgreeSQL
-PostBird
-VsCode
+### Os dados introduzidos são salvos no banco de dados e depois exibidos na página para exibir as últimas entradas.
+
+- Apresentação do Site:
+
+![image](https://user-images.githubusercontent.com/55239443/88484456-dff01380-cf44-11ea-8771-0afa8b259219.png)
+
+- Inserção dos Dados:
+
+![image](https://user-images.githubusercontent.com/55239443/88484471-f8602e00-cf44-11ea-9a0e-51baac122082.png)
+
+- Dados inseridos no banco e exibidos no site:
+
+![image](https://user-images.githubusercontent.com/55239443/88484480-044bf000-cf45-11ea-820a-6b9545046a96.png)
