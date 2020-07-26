@@ -2,7 +2,7 @@
 
 ## Aplicativo para treino de HTML, CSS, NodeJS e comunicação entre banco de dados utilizando PostgreeSQL.
 
-### Os dados introduzidos são salvos no banco de dados e depois exibidos na página para exibir as últimas entradas.
+### Os dados introduzidos são salvos no banco de dados e depois exibidos na página.
 
 - Apresentação do Site:
 
